@@ -1,0 +1,19 @@
+{
+  "name": "pract2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+        "start": "node server.js",
+        "build": "sass style.scss style.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "sass": "^1.85.0"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
